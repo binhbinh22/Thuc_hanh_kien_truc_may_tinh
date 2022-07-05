@@ -1,1 +1,1 @@
-# check prime 
+# check prime number
