@@ -1,11 +1,14 @@
 Sử dụng 2 ngoại vi là bàn phím và led 7 thanh để xây dựng một máy tính bỏ túi đơn giản. Hỗ trợ các
 phép toán +, -, *, /. Do trên bàn phím không có các phím trên nên sẽ dùng các phím
 
-
 Bấm phím a để nhập phép tính +
+
 Bấm phím b để nhập phép tính –
+
 Bấm phím c để nhập phép tính *
+
 Bấm phím d để nhập phép tính /
+
 Bấm phím f để nhập phép =
 
 Yêu cầu cụ thể như sau:
